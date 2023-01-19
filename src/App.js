@@ -1,11 +1,11 @@
 import React from 'react';
 import './style.css';
+import Counter from './Counter/Counter.js';
 
 export default function App() {
   return (
     <div>
-      <h1>Hello StackBlitz!</h1>
-      <p>Start editing to see Nandini:)</p>
+      <Counter />
     </div>
   );
 }
