@@ -1,0 +1,16 @@
+div{
+  padding:20px;
+  background-color: aqua;
+
+}
+button{
+  color:white;
+  background-color: rgb(84, 224, 84);
+  height:30px;
+  width:70px;
+  border-radius: 5px;
+  border:2px solid  rgb(84, 224, 84);
+}
+button:hover{
+  background-color: green;
+}
